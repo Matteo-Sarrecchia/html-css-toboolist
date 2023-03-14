@@ -16,3 +16,45 @@
     font-weight: 700;
 }
 
+/* CORPO CENTRALE */
+#container{
+    width: 60%;
+    margin: 50px auto;
+}
+
+/* BUTTON */
+#button{
+    padding-bottom: 50px;
+}
+
+#add-button{
+    background-color: #14AAF5;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    border: 1px solid #14AAF5;
+}
+
+#add-section{
+    color: grey;
+    border-radius: 5px;
+    padding: 5px 10px;
+    border: 1px solid grey;
+}
+
+/* NEW TASK */
+#back-blue{
+    font-size: 10px;
+    color: white;
+    background-color: #14AAF5;
+    border-radius: 10px;
+    padding: 5px 10px;
+    border: 1px solid #14AAF5;
+}
+
+.spunta{
+    border: 2px solid #3CCAB1;
+    color: #3CCAB1;
+    padding: 2px 4px;
+    border-radius: 50%;
+}
